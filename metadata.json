@@ -1,0 +1,7 @@
+{
+  "name": "Pixar Avatar Magic",
+  "description": "Transform your everyday photos into stunning Pixar-style 3D animated avatars using the power of Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
